@@ -1,2 +1,1 @@
-# One-draw
-A designing app
+One-draw
